@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #CACACA;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+}
+main {
+    background-color: #878787;
+    right: 0;
+    left: 0;
+  
+    
+}
+
+#logo {
+    
+    height:100px;
+}
